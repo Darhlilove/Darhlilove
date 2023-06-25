@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darhlilove
-- 👀 I’m interested in business intelligence, data science and data analysis, and software and computing engineering.
-- 🌱 I’m currently learning Python and SQL.
+- 👀 I’m interested in business intelligence, data science and analytics, and software engineering.
+- 🌱 I’m currently learning software engineering @ALX.
 - 💞️ I’m looking to collaborate on learning Python and SQL.
 - 📫 How to reach me: darhlilove16@gmail.com
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darhlilove
-- 👀 I’m interested in business intelligence, data science and analytics, and software engineering.
+- 👀 I’m interested in software engineering, business intelligence, data science and analytics.
 - 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on learning Python and Express for backend.
+- 💞️ I’m looking to collaborate on learning Nodejs and Python for backend.
 - 📫 How to reach me: darhlilove16@gmail.com
 
 <!---
